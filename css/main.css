@@ -1,0 +1,10 @@
+@import "fonts.css";
+/*
+.box-name {font-family: 'Gilroy Light';}
+.box-name {font-family: 'Museo Sans 300 Light Italic';}
+*/
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
